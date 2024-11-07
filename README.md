@@ -1,3 +1,3 @@
-# Rock Paper Scissors
+**[FreeCodeCamp RPS Challenge from ML with Tensorflows]**(https://www.freecodecamp.org/learn/machine-learning-with-python)
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+In this project the goal is to develop a solution to beat three different bots in a game of RPS. 
